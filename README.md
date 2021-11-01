@@ -1,8 +1,8 @@
 Olá! Eu sou a Danielle Santiago 👋
 
 
-- 🔭 Atualmente estou buscando uma oportunidade para ingressar na área de TI
-- 🌱 Estou estudando Javascript, Node, Java e Angular
+- 🔭 Desenvolvedora Jr
+- 🌱 Estou estudando Javascript, Node, Java, Spring Boot e Angular
 - 📫 Contate-me através do e-mail dani.santiago89@hotmail.com
 - 😄 Pronomes: Ela/Dela
 - ⚡ Adoro jogar games de exploração em mundo aberto, investigação, puzzles, estratégia e minhas séries favoritas são de suspense ou investigação criminal. Sou uma eterna estudante, porque aprender é fascinante 🤓
