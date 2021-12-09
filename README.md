@@ -1,7 +1,7 @@
 Olá! Eu sou a Danielle Santiago 👋
 
 
-- 🔭 Desenvolvedora Jr
+- 🔭 Analista de Sistemas Jr na Indra Company
 - 🌱 Estou estudando Javascript, Node, Java, Spring Boot e Angular
 - 📫 Contate-me através do e-mail dani.santiago89@hotmail.com
 - 😄 Pronomes: Ela/Dela
