@@ -1,7 +1,7 @@
 Olá! Eu sou a Danielle Santiago 👋
 
 
-- 🔭 Desenvolvedora Front-end Pleno na Minsait/Indra Company
+- 🔭 Desenvolvedora Fullstack Pleno na Minsait/Indra Company
 - 🌱 Estou estudando Javascript, C#.Net, Typescrit e Angular
 - 📫 Contate-me através do e-mail dani.santiago89@hotmail.com
 - 😄 Pronomes: Ela/Dela
