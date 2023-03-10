@@ -1,8 +1,8 @@
 Olá! Eu sou a Danielle Santiago 👋
 
 
-- 🔭 Desenvolvedora Front-end Jr na Minsait/Indra Company
-- 🌱 Estou estudando Javascript,.Net, React e Angular
+- 🔭 Desenvolvedora Front-end Pleno na Minsait/Indra Company
+- 🌱 Estou estudando Javascript, C#.Net, Typescrit e Angular
 - 📫 Contate-me através do e-mail dani.santiago89@hotmail.com
 - 😄 Pronomes: Ela/Dela
 - ⚡ Adoro jogar games de exploração em mundo aberto, investigação, puzzles, estratégia e minhas séries favoritas são de suspense ou investigação criminal. Sou uma eterna estudante, porque aprender é fascinante 🤓
