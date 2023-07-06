@@ -21,6 +21,7 @@ Olá! Eu sou a Danielle Santiago 👋
   <img align="center" "height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>                                                     <img align="center" "height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" "height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" "height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" "height="30" width="40" src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png"/>
   <img align="center" "height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"/>
 </div>
  
