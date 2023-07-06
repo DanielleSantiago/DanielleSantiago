@@ -1,8 +1,8 @@
 Olá! Eu sou a Danielle Santiago 👋
 
 
-- 🔭 Desenvolvedora Fullstack Pleno na Minsait/Indra Company
-- 🌱 Estou estudando Javascript, C#.Net, Typescrit e Angular
+- 🔭 Desenvolvedora Fullstack C# .Net e Angular Pleno na Minsait/Indra Company
+- 🌱 Estudando Angular avançado, C# e .Net, Entity framework e testes unitários em angular com Jasmine.
 - 📫 Contate-me através do e-mail dani.santiago89@hotmail.com
 - 😄 Pronomes: Ela/Dela
 - ⚡ Adoro jogar games de exploração em mundo aberto, investigação, puzzles, estratégia e minhas séries favoritas são de suspense ou investigação criminal. Sou uma eterna estudante, porque aprender é fascinante 🤓
