@@ -1,7 +1,7 @@
 Olá! Eu sou a Danielle Santiago 👋
 
 
-- 🔭 Desenvolvedora Fullstack C# .Net e Angular Pleno na Reply
+- 🔭 Desenvolvedora Fullstack C# .Net | Angular | React e Fundadora da Hopper Axis Tecnologia
 - 🌱 Estudando Angular avançado, C# e .Net, Entity framework e testes unitários em angular com Jasmine.
 - 📫 Contate-me através do e-mail dani.santiago89@hotmail.com
 - 😄 Pronomes: Ela/Dela
